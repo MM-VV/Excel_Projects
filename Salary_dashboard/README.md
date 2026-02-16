@@ -1,4 +1,4 @@
-# Salary Dashboard - Excel
+# Salary Dashboard
 
 ![1_Salary_Dashboard.png](1_Salary_Dashboard_Final_Dashboard.gif)
 

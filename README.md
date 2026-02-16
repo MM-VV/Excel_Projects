@@ -1,18 +1,8 @@
 # 📊 Excel Data Analytics Portfolio  
-### Merlin Vincent  
 
-Welcome to my Excel-based Data Analytics portfolio.  
-This repository showcases projects focused on transforming raw data into meaningful business insights using Excel and related tools.
-
----
+This repository showcases Excel-based data analytics projects focused on transforming raw datasets into structured insights and business-ready dashboards using Excel, Power Query, and data modeling techniques.
 
 ![Excel Portfolio Preview](Salary_dashboard/1_Salary_Dashboard_Final_Dashboard.gif)
-
----
-
-## 👩‍💻 About Me
-
-I am a Data Analyst skilled in Excel, SQL, and Power BI, with a background in operations. I focus on transforming raw data into structured insights that support real-world business decisions.
 
 ---
 
