@@ -6,10 +6,13 @@ This repository showcases projects focused on transforming raw data into meaning
 
 ---
 
-## 👨‍💼 About Me
+![Excel Portfolio Preview](Salary_dashboard/1_Salary_Dashboard_Final_Dashboard.gif)
 
-I am an aspiring Data Analyst with experience in Excel, SQL, and Power BI.  
-With a background in operations, I focus on solving real-world business problems through structured analysis and clear data storytelling.
+---
+
+## 👩‍💻 About Me
+
+I am a Data Analyst skilled in Excel, SQL, and Power BI, with a background in operations. I focus on transforming raw data into structured insights that support real-world business decisions.
 
 ---
 
@@ -28,7 +31,7 @@ With a background in operations, I focus on solving real-world business problems
 
 ## 📁 Projects
 
-### 1️⃣ Salary Dashboard
+### 1️⃣ [Salary Dashboard](https://github.com/MM-VV/Salary_dashboard)
 
 **Objective:**  
 Analyze salary trends across job roles, locations, and skill combinations.
@@ -46,7 +49,7 @@ Analyze salary trends across job roles, locations, and skill combinations.
 
 ---
 
-### 2️⃣ Job Market Analysis
+### 2️⃣ [Job Market Analysis](https://github.com/MM-VV/Job_Market_Analysis)
 
 **Objective:**  
 Identify the most in-demand skills in the data job market using real-world job listing data.

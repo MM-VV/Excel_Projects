@@ -105,6 +105,14 @@ IF(
 
 <img src="1_Salary_Dashboard_Type.png" width="425" height="400" alt="Salary Dashboard Data Validation">
 
+## 🔎 Key Business Insights
+
+- Senior-level roles consistently command higher median salaries.
+- U.S.-based roles show stronger compensation compared to international markets.
+- Employment type significantly influences salary levels.
+- Engineers tend to earn more than Analyst-focused roles.
+
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from https://datanerd.tech/, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from https://datanerd.tech/, this dashboard allows users to make informed decisions about their career paths. The dashboard enables users to explore how location and job type influence salary outcomes.
+

@@ -3,7 +3,7 @@
 
 ## Introduction
 
-As someone actively navigating the job market, I was curious about which data science roles and skills offer the best opportunities. I conducted this analysis to uncover the most sought-after skills among top employers and understand how they influence salary potential.
+This project analyzes the data science job market to identify high-demand skills, salary trends, and the relationship between skill depth and compensation.
 
 ### Questions to Analyze
 
@@ -74,7 +74,7 @@ It includes detailed information on:
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-    ![2_Project_Analysis_Chart1.png]()
+    ![2_Project_Analysis_Chart1.png](Job_Market_Analysis/2_Project_Analysis_Chart1.png)
 
 #### 🤔 So What
 
@@ -170,9 +170,20 @@ It includes detailed information on:
 
     ![2_Project_Analysis_Chart4.png](2_Project_Analysis_Chart4.png)
 
-### 🤔So What
+### 🤔 So What
 
-- This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
+The analysis indicates that technical depth significantly influences compensation. 
+Skills such as Python and SQL consistently appear in higher-paying roles, suggesting that employers prioritize strong data manipulation and querying capabilities. 
+For professionals targeting senior or high-growth roles, investing in core technical skills may offer stronger salary leverage than generalist skill sets.
+
+
+## 📌 Business Value
+
+This analysis demonstrates the ability to:
+- Build relational data models in Excel
+- Perform ETL using Power Query
+- Create DAX measures for advanced calculations
+- Translate raw job data into actionable career insights
 
 ## Conclusion
 
