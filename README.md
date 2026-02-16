@@ -31,7 +31,7 @@ I am a Data Analyst skilled in Excel, SQL, and Power BI, with a background in op
 
 ## 📁 Projects
 
-### 1️⃣ [Salary Dashboard](https://github.com/MM-VV/Salary_dashboard)
+### 1️⃣ [Salary Dashboard](Salary_dashboard)
 
 **Objective:**  
 Analyze salary trends across job roles, locations, and skill combinations.
@@ -49,7 +49,7 @@ Analyze salary trends across job roles, locations, and skill combinations.
 
 ---
 
-### 2️⃣ [Job Market Analysis](https://github.com/MM-VV/Job_Market_Analysis)
+### 2️⃣ [Job Market Analysis](Job_Market_Analysis)
 
 **Objective:**  
 Identify the most in-demand skills in the data job market using real-world job listing data.
