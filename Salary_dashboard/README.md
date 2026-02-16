@@ -107,7 +107,8 @@ IF(
 
 ### 🤔 So What
 
-This analysis shows that deeper technical skills such as Python and SQL are associated with higher compensation in the current tech job market. Employers appear to value candidates with strong data manipulation and programming abilities, suggesting that focusing on these areas may enhance career opportunities and salary potential.
+This analysis shows that roles requiring deeper technical skills such as Python and SQL tend to offer higher median compensation. Employers appear to prioritize candidates with strong programming and data manipulation abilities, indicating that technical proficiency can be a key differentiator in competitive job markets.
+
 
 ## 🔎 Key Business Insights
 
