@@ -105,6 +105,10 @@ IF(
 
 <img src="1_Salary_Dashboard_Type.png" width="425" height="400" alt="Salary Dashboard Data Validation">
 
+### 🤔 So What
+
+This analysis shows that deeper technical skills such as Python and SQL are associated with higher compensation in the current tech job market. Employers appear to value candidates with strong data manipulation and programming abilities, suggesting that focusing on these areas may enhance career opportunities and salary potential.
+
 ## 🔎 Key Business Insights
 
 - Senior-level roles consistently command higher median salaries.
