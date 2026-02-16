@@ -74,7 +74,7 @@ It includes detailed information on:
 - 📈 There is a positive correlation between the number of skills requested in job postings and the median salary, particularly in roles like Senior Data Engineer and Data Scientist.
 - 💼 Roles that require fewer skills, like Business Analyst, tend to offer lower salaries, suggesting that more specialized skill sets command higher market value.
 
-    ![2_Project_Analysis_Chart1.png](Job_Market_Analysis/2_Project_Analysis_Chart1.png)
+    ![2_Project_Analysis_Chart1.png](2_Project_Analysis_Chart1.png)
 
 #### 🤔 So What
 
