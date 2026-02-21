@@ -1,6 +1,6 @@
 # Salary Dashboard
 
-![1_Salary_Dashboard.png](1_Salary_Dashboard_Final_Dashboard.gif)
+![1_Salary_Dashboard.png](Salary_Dashboard/1_Salary_Dashboard_Final_Dashboard.png)
 
 ## Introduction
 
