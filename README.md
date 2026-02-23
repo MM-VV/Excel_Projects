@@ -2,7 +2,7 @@
 
 This repository showcases Excel-based data analytics projects focused on transforming raw datasets into structured insights and business-ready dashboards using Excel, Power Query, and data modeling techniques.
 
-![Excel Preview](Salary_Dashboard/1_Salary_Dashboard_Final_Dashboard.gif)
+![Excel Preview](Salary_Dashboard/1_Salary_Dashboard_Final_Dashboard.png)
 
 ---
 
